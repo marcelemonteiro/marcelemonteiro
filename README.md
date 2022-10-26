@@ -2,7 +2,7 @@
 
 Eu sou a Marcele, tenho 22 anos, sou estagiária em desenvolvimento web front-end e moro no Rio de Janeiro - RJ.
 
-Alguns fatos sobre mim são: adoro designs minimalistas, gosto muito de ler desde romance pastelões até livros técnicos de programação e corro no meus tempos livres.
+Alguns fatos sobre mim são: adoro designs minimalistas, gosto muito de ler desde romance pastelões até livros técnicos de programação e corrida é meu esporte favorito.
 
 Meus outros interesses também são: UX Design e Inteligência Artificial;
 
